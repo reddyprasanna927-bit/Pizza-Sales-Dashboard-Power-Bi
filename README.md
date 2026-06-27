@@ -10,6 +10,7 @@ The Pizza Sales Dashboard is an interactive Power BI project designed to analyze
 -Support business decisions through data visualization
 
 # Dataset
+<a herf ="https://github.com/reddyprasanna927-bit/Pizza-Sales-Dashboard-Power-Bi/blob/main/pizza_sales.csv">(dataset</a>)
 
 # Dashboard Features
 - Total Revenue
@@ -25,3 +26,12 @@ The Pizza Sales Dashboard is an interactive Power BI project designed to analyze
 
 # Dashboard
 <a herf ="https://github.com/reddyprasanna927-bit/Pizza-Sales-Dashboard-Power-Bi/blob/main/pizze%20power%20bi%20project.pbix">(dashboard</a>)
+
+# Tools & Technologies
+-Microsoft Power BI
+-Power Query
+-DAX
+-Data Modeling
+-Microsoft Excel / CSV Dataset
+
+# Dashboard Preview
