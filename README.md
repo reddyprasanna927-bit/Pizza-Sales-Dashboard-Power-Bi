@@ -35,3 +35,7 @@ The Pizza Sales Dashboard is an interactive Power BI project designed to analyze
 -Microsoft Excel / CSV Dataset
 
 # Dashboard Preview
+
+![Uploading Screenshot 2026-06-27 151416.png…]()
+
+
