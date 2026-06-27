@@ -22,3 +22,4 @@ The Pizza Sales Dashboard is an interactive Power BI project designed to analyze
 -Interactive Filters & Slicers
 
 # Dashboard
+<a herf ="https://github.com/reddyprasanna927-bit/Pizza-Sales-Dashboard-Power-Bi/blob/main/pizze%20power%20bi%20project.pbix">(dashboard</a>)
