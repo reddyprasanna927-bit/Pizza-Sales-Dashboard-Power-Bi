@@ -1,2 +1,24 @@
 # Pizza-Sales-Dashboard-Power-Bi
-This project presents an interactive Pizza Sales Analytics Dashboard developed in Microsoft Power BI to analyze sales performance and customer purchasing trends. The dashboard provides a comprehensive view of revenue, order volume, pizza categories, product popularity, and sales distribution across different pizza sizes.
+# Project overview
+The Pizza Sales Dashboard is an interactive Power BI project designed to analyze pizza sales performance and provide actionable business insights. The dashboard helps track revenue, order trends, customer preferences, and product performance using dynamic visualizations and KPIs.
+# Objectives
+-Analyze overall pizza sales performance
+-Monitor revenue, orders, and quantity sold
+-Identify best-selling pizza categories and sizes
+-Discover top-performing pizzas
+-Analyze sales trends by order time
+-Support business decisions through data visualization
+
+# Dashboard Features
+- Total Revenue
+- Total Orders
+- Total Quantity Sold
+- Average Unit Price
+- Sales by Pizza Size
+- Sales by Pizza Category
+- Top-Selling Pizza Names
+- Order Time Analysis
+-Revenue Distribution
+-Interactive Filters & Slicers
+
+# Dashboard
